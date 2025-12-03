@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ryan — welcome to **repo**  
+# 👋 Hi, I'm Ryan — welcome
 ### *Data Analyst | Visualisation Specialist | Python & AI Learner*
 
 This GitHub profile is my dedicated space for showcasing my journey from  
@@ -16,7 +16,7 @@ and this repository hub documents everything I build, break, fix, and learn.
 - Strong background in **MicroStrategy**, enterprise dashboards & schema design  
 - Currently developing deeper skills in **Python, SQL, Power BI, and AI workflows**
 - Passionate about **data storytelling**, automation, and analytics engineering  
-- Home-lab enthusiast — Raspberry Pi, Docker, qBittorrent-nox, Tailscale, SMB, TrueNAS
+- Home-lab enthusiast — Raspberry Pi, Docker, Tailscale, SMB, TrueNAS
 
 ---
 
