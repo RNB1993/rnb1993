@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ryan — welcome
+# Welcome👋 Hi, I'm Ryan 
 ### *Data Analyst | Visualisation Specialist | Python & AI Learner*
 
 This GitHub profile is my dedicated space for showcasing my journey from  
