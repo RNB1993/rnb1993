@@ -127,7 +127,7 @@ I’ve worked across multiple industries through direct employment, consulting r
 If you'd like to connect, collaborate, or discuss analytics work:
 
 - **LinkedIn:** *<a href="https://www.linkedin.com/in/ryanbrooker/">Profile</a>*  
-- **Email:** *<a href="mailto:hello@ryanbrooker.co.uk?subject=Emai me #FoundOnGitHub">Drop me a note :)</a>*  
+- **Email:** *<a href="mailto:hello@ryanbrooker.co.uk?subject=Email me #FoundOnGitHub">Drop me a note :)</a>*  
 - **GitHub:** You’re already here 👋
 
 ---
