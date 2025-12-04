@@ -19,6 +19,15 @@ and this repository hub documents everything I build, break, fix, and learn.
 - Home-lab enthusiast — Raspberry Pi, Docker, Tailscale, SMB, TrueNAS
 
 ---
+## 📬 Contact
+
+If you'd like to connect, collaborate, or discuss analytics work:
+
+- **LinkedIn:** *<a href="https://www.linkedin.com/in/ryanbrooker/">Profile</a>*  
+- **Email:** *<a href="mailto:hello@ryanbrooker.co.uk?subject=Email me #FoundOnGitHub">Drop me a note :)</a>*  
+- **GitHub:** You’re already here 👋
+
+---
 
 ## 🛠️ Skills
 
@@ -119,16 +128,6 @@ I’ve worked across multiple industries through direct employment, consulting r
 | **OS & Systems** | Linux, Raspberry Pi OS |
 | **Home Lab** | Docker, systemd, SMB, Tailscale, TrueNAS |
 | **Other** | VS Code, Jupyter Notebooks |
-
----
-
-## 📬 Contact
-
-If you'd like to connect, collaborate, or discuss analytics work:
-
-- **LinkedIn:** *<a href="https://www.linkedin.com/in/ryanbrooker/">Profile</a>*  
-- **Email:** *<a href="mailto:hello@ryanbrooker.co.uk?subject=Email me #FoundOnGitHub">Drop me a note :)</a>*  
-- **GitHub:** You’re already here 👋
 
 ---
 
