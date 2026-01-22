@@ -61,7 +61,8 @@ A curated selection of what I’m working on:
 
 ### 🔹 **Python & Analytics Projects**
 - Bootcamp assignments (data cleaning, analysis, visualisation)
-- Retail analytics & macroeconomic datasets (GDP, CPI, investment trends)
+  -Capstone project 1: *<a href="https://www.linkedin.com/in/ryanbrooker/">Credit Card Churn Analysis</a>*  
+
 - Debugging exercises (Python Tutor, print-debugging, logic tracing)
 - Data wrangling challenges (loops, conditionals, list manipulation)
 
